@@ -16,9 +16,63 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+<head>
+<style type = "text/css">
+h1
+  {
+   background-color:red;
+    colorcyan;
+    text-align:center;
+  }
+
+
+p
+   {
+    text-align:left;
+    border-bottom-style:dashed;
+    border-top-style:solid; 
+    border-left-style:double; 
+    border-right-style:groove;
+    border-width:25px;
+    font :Times Newroman;
+    border-bottom-color:pinkm;
+    border-top-color:yellow;
+    border-left-color:green; 
+    border-right-color:blue;
+   }
+</style>
+</head>
+<body>
+            <h1>BIO-DATA</h1>
+<p>    
+            NAME:SHIYAM
+            <br>
+            FATHER NAME:kumaran
+            <br>
+            MOTHER NAME: poonkodi
+            <br>
+            ADDRESS:M-201 Bharathidasan street,Ragavendhra Nagar,Kanchipuram
+            <br>
+            DEPARTMENT:B.E AGRICULTURAL ENGINEERING
+            <br>
+            REGISTER NUMBER:212221010035
+            <br>
+            YEAR:SECOND YEAR
+            <br>
+            HOBBIES:CRICKET,KABBADI<FOOTBALL
+            <br>
+            PHONE NUMBER:8098119509
+            <br>
+            E-MAIL ID:stunningshiyam09@gmail.com</p>
+</body>
+</html>
+```
 
 
 ## OUTPUT
+[shiyam.html.pdf](https://github.com/ShiyamKumaran/Ex05_Web-Design/files/11580961/shiyam.html.pdf)
 
 
 ## RESULT
