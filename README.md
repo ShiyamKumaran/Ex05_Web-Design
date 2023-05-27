@@ -72,7 +72,9 @@ p
 
 
 ## OUTPUT
-[shiyam.html.pdf](https://github.com/ShiyamKumaran/Ex05_Web-Design/files/11580961/shiyam.html.pdf)
+![Screenshot from 2023-05-27 09-39-50](https://github.com/ShiyamKumaran/Ex05_Web-Design/assets/127816458/256032cd-9e49-40ad-b5fd-36137e4061bf)
+
+
 
 
 ## RESULT
